@@ -5,7 +5,7 @@
 </p>
 
 # Matheus Silva
-<sub>*Software Engineer* at [Mercado Livre Brasil](https://github.com/mercadolibre)</sub>
+<sub>*Software Engineer* at Mercado Livre Brasil</sub>
 
 As a experienced Software Engineer I combine analytical skills, ability to work in team environments, and attention to details. I developed a critical thinking and problem-solving skills.
 
