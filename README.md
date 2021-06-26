@@ -14,7 +14,7 @@ My credentials include a Postgraduate in Distributed Software Architecture from 
 
 **Links:**
 * [Blog](http://msilva.dev)
-* [LinkedIn](https://www.linkedin.com/in/matheus-silva-023384119/)
+* [LinkedIn](https://www.linkedin.com/in/msilvadev/)
 * [Medium](https://msilvadev.medium.com/)
 
 
